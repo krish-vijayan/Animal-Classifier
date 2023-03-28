@@ -19,6 +19,7 @@ struct Images {
         "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/96b0f8c1fc7546deab323b0f6ba9f33a.jpg",
         "https://d.newsweek.com/en/full/2074004/puppy.jpg?w=1600&h=1600&q=88&f=dedf0208a00ec721b5356a02ef474bf2",
         "https://www.charlotte.providencevets.com/files/providence-animal-hospital-charlotte-are-rabbits-rodents-blog.jpeg",
-        "https://a-z-animals.com/media/2022/02/spotted-rabbit-in-sunlight-at-the-green-grass-on-the-garden-picture-id1271893635-1024x535.jpg"
+        "https://a-z-animals.com/media/2022/02/spotted-rabbit-in-sunlight-at-the-green-grass-on-the-garden-picture-id1271893635-1024x535.jpg",
+        "https://cdn.memiah.co.uk/blog/wp-content/uploads/nutritionist-resource.org.uk/2021/04/rabbit-1-1024x683.jpg"
     ]
 }
